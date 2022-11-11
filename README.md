@@ -1,2 +1,7 @@
-# disaster_not_disaster_classification_tensorflow
-a tensorflow model based on the universal sentence encoder to classify tweets by "disaster" and "not disaster"
+# disaster_tweets
+two tensorflow models to handle the handle disaster tweets competition from kaggle
+
+the models:
+-model based on the universal sentence encoder.
+-model based on the bert encoder.
+
